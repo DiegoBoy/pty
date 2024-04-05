@@ -107,7 +107,7 @@ linters-settings:
   goimports:
     # Put imports beginning with prefix after 3rd-party packages.
     # It's a comma-separated list of prefixes.
-    local-prefixes: "github.com/creack/pty"
+    local-prefixes: "github.com/DiegoBoy/pty"
 
   golint:
     # Minimal confidence for issues, default is 0.8.
